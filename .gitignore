@@ -37,3 +37,4 @@ rsconnect/
 
 # GEDCOM files
 *.ged
+.Rproj.user
